@@ -1,0 +1,10 @@
+frozenset({45.05, -73.05}), 
+frozenset({45.05, -73.08}), 
+frozenset({45.01, -73.0}), 
+frozenset({45.01, -73.02}), 
+frozenset({45.02, -73.01}), 
+frozenset({45.02, -73.03}), 
+frozenset({45.02, -73.02})
+frozenset({45.02, -73.05}), 
+frozenset({45.03, -73.02}), 
+frozenset({45.07, -73.04}), 
